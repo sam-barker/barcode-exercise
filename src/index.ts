@@ -1,7 +1,7 @@
-import { greeting } from './greeting.js'
+import { barcode } from './barcode'
 
 function main(): void {
-  console.log(greeting('barcode-exercise'))
+  console.log(barcode('barcode-exercise'))
 }
 
 main()
